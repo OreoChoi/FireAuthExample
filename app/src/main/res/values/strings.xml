@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FireAuthExample</string>
+    <string name="facebook_application_id" translatable="false">com.kcejjh.fireauthexample</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbcom.kcejjh.fireauthexample</string>
 </resources>
