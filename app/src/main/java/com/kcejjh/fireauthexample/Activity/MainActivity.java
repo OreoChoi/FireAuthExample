@@ -17,7 +17,6 @@ import java.util.List;
 public class MainActivity extends BaseActivity {
 
     private static final int RC_SIGN_IN = 1009;
-    private String TAG = this.getClass().getName();
 
     private FirebaseAuth mAuth = FirebaseAuth.getInstance();
 
